@@ -1,2 +1,2 @@
 #  <a href="https://forlino.github.io/Manicura/">Pagina Manicura</a>
-Pagina web manicura
+Clickea el enlace de arriba para ir a la web
