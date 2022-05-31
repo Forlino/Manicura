@@ -1,2 +1,2 @@
-# forlinomanicura.github.io
+# forlino.github.io
 Pagina web manicura
